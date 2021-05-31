@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kartikgupta89.github.io/csb-l81bh/static/css/main.5e9c4af7.chunk.css",
+    "main.js": "https://kartikgupta89.github.io/csb-l81bh/static/js/main.84b3db58.chunk.js",
+    "main.js.map": "https://kartikgupta89.github.io/csb-l81bh/static/js/main.84b3db58.chunk.js.map",
+    "runtime-main.js": "https://kartikgupta89.github.io/csb-l81bh/static/js/runtime-main.4cacdd2d.js",
+    "runtime-main.js.map": "https://kartikgupta89.github.io/csb-l81bh/static/js/runtime-main.4cacdd2d.js.map",
+    "static/js/2.7f016653.chunk.js": "https://kartikgupta89.github.io/csb-l81bh/static/js/2.7f016653.chunk.js",
+    "static/js/2.7f016653.chunk.js.map": "https://kartikgupta89.github.io/csb-l81bh/static/js/2.7f016653.chunk.js.map",
+    "index.html": "https://kartikgupta89.github.io/csb-l81bh/index.html",
+    "static/css/main.5e9c4af7.chunk.css.map": "https://kartikgupta89.github.io/csb-l81bh/static/css/main.5e9c4af7.chunk.css.map",
+    "static/js/2.7f016653.chunk.js.LICENSE.txt": "https://kartikgupta89.github.io/csb-l81bh/static/js/2.7f016653.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cacdd2d.js",
+    "static/js/2.7f016653.chunk.js",
+    "static/css/main.5e9c4af7.chunk.css",
+    "static/js/main.84b3db58.chunk.js"
+  ]
+}
